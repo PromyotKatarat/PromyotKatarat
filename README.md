@@ -65,6 +65,7 @@ Before diving into AI, I honed my analytical thinking in the trenches of Cyberse
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PromyotKatarat&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromyotKatarat&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromyotKatarat&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PromyotKatarat&theme=tokyonight" width="48%" alt="Top Languages" />
 </div>
