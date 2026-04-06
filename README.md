@@ -62,7 +62,7 @@ Before diving into AI, I honed my analytical thinking in the trenches of Cyberse
 * **Google Professional Certifications:** Crash Course on Python & Using Python to Interact with the OS
 * **CompTIA CySA+ & PenTest+**
 
-<br>
+
 
 <br>
 
